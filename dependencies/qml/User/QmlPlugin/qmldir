@@ -1,0 +1,4 @@
+module User.QmlPlugin
+plugin QmlPlugin
+RedRectangle 1.0 RedRectangle.qml
+typeinfo plugin.qmltypes
